@@ -1,0 +1,33 @@
+.text-bg-todo{
+    /* background-color: #001848; */
+    background-color: #A076F9;
+}
+
+.btn-todo{
+    background-color: #301860;
+    /* background-color: #FFFFFF96; */
+
+}
+
+.btn-todo:hover{
+    background-color: #00b4fc;
+}
+
+.card-body{
+    background-color: #FFFFFF96;
+    /* background-image: "download.j    pg "; */
+}
+
+input[type=checkbox]:checked + label.strikethrough{
+    text-decoration: line-through;
+}
+.profile {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+  }
+  .profilee {
+    height: 200px;
+    width: 250px;
+  }
+  
